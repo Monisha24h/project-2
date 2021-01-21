@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.header{
+    background: rgb(83, 85, 85);
+    
+}
+.contact{
+    background: yellowgreen;
+    width:20%;
+    padding: 20px;
+    text-align: center;
+    margin-left: 35%;
+}
